@@ -16,6 +16,7 @@ public class GitHub_Test_Max {
      */
     public static void main(String[] args) {
 	    System.out.println("Hello World");
+	    System.out.println("Hello World2");
         // TODO code application logic here
     }
     
